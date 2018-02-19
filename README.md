@@ -1,4 +1,4 @@
-# Nusantara Muda (nusantara.org)
+# Nusantara Muda (nusantaramuda.org)
 
 ## About
 Nusantara Muda merupakan organisasi kepemudaan yang bertujuan mengembangkan potensi pemuda Indonesia dalam membuat perubahan positif dalam masyarakat.
